@@ -16,4 +16,4 @@ $data= array (
 	   );
 
 
-$result = $db->insert('exec1',$data);
+$result = $db->insert('exec',$data);
