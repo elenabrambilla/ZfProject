@@ -1,5 +1,5 @@
 <?php
-//date_default_timezone_set('GMT');
+// commento di oggi...
 require_once 'Zend/Db.php';
 
 $db = Zend_Db::factory('Pdo_Mysql', 
